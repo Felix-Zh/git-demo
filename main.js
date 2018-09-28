@@ -1,2 +1,2 @@
-console.log('bug fixed.');
+hi
 !!!
