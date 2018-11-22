@@ -1,2 +1,1 @@
-foo
-bar
+console.log(new Date());
