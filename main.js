@@ -1,6 +1,0 @@
-hi
-!!!
-~~~
-hahaha
-hehe
-hoho
